@@ -1,0 +1,149 @@
+{
+    "responseStatus": "Success",
+    "statusCode":"100",
+    "responseMessage": "Record found and processed",
+    "crudIndicator": "R",
+    "crewCount": 3,
+    "crewFlightDetails": {
+        "crudIndicator": "R",
+        "crewFltId": 1577,
+        "crewId": 18,
+        "fltNumber": "970",
+        "depApt": "DOH",
+        "arrApt": "SGN",
+        "depDate": "2022-04-15",
+        "oprSts": "DUTY",
+        "oprPos": "L2",
+        "paLang": "EN",
+        "rosterGrade": "F2",
+        "destVisitCount": 0,
+        "fltSufxNum": "",
+        "airlineCode": "QR",
+        "oprSufx": "A"
+    },
+    "crewList": [
+        {
+            "crudIndicator": "R",
+            "crewId": 18,
+            "staffNumber": "18",
+            "firstName": "Natasha",
+            "middleName": "",
+            "lastName": "Patrick",
+            "crewGrade": "F1",
+            "rosterGrade": "F1",
+            "crewDob": "1992-03-10",
+            "crewDoj": "2015-05-12",
+            "gender": "F",
+            "oprPos": "L1",
+            "destVisitCount": 0,
+            "oprSts": "OP",
+            "nationality": "IN",
+            "rankIndicator": "U",
+            "crewType" : "CC",
+            "languages": [
+                {
+                    "code": "HI",
+                    "value": "HINDI"
+                },
+                {
+                    "code": "EN",
+                    "value": "ENGLISH"
+                },
+                {
+                    "code": "FR",
+                    "value": "FRENCH"
+                }
+            ],
+            "paLang": [
+                {
+                    "code": "HI",
+                    "value": "HINDI"
+                },
+                {
+                    "code": "EN",
+                    "value": "ENGLISH"
+                },
+                {
+                    "code": "FR",
+                    "value": "FRENCH"
+                }
+            ],
+            "crew_serv_pos": [
+                {
+                    "postionChar": "CABIN SERVICES",
+                    "count": "2"
+                },
+                {
+                    "postionChar": "GALLEY",
+                    "count": "3"
+                }],
+            "specialPermission": [],
+            "expInCurrentGrade": 90
+        },
+        {
+            "crudIndicator": "R",
+            "crewId": 32,
+            "staffNumber": "32",
+            "firstName": "Bernadette",
+            "middleName": "",
+            "lastName": "PATRICK",
+            "crewGrade": "CS",
+            "rosterGrade": "F1",
+            "crewDob": "1992-03-10",
+            "crewDoj": "2015-05-12",
+            "gender": "F",
+            "oprPos": "L1",
+            "destVisitCount": 0,
+            "oprSts": "OP",
+            "nationality": "Indian",
+            "rankIndicator": "U",
+            "crewType" : "CC",
+            "languages": [
+                {
+                    "code": "HI",
+                    "value": "HINDI"
+                },
+                {
+                    "code": "EN",
+                    "value": "ENGLISH"
+                }
+            ],
+            "paLang": [],
+            "specialPermission": [],
+            "expInCurrentGrade": 78
+        },
+        {
+            "crudIndicator": "R",
+            "crewId": 33,
+            "staffNumber": "32",
+            "firstName": "Jenny",
+            "middleName": "",
+            "lastName": "PATRICK",
+            "crewGrade": "CS",
+            "rosterGrade": "F1",
+            "crewDob": "1992-03-10",
+            "crewDoj": "2015-05-12",
+            "gender": "F",
+            "oprPos": "L1",
+            "destVisitCount": 0,
+            "oprSts": "DH",
+            "nationality": "Indian",
+            "rankIndicator": "U",
+            "crewType" : "CC",
+            "languages": [
+                {
+                    "code": "HI",
+                    "value": "HINDI"
+                },
+                {
+                    "code": "EN",
+                    "value": "ENGLISH"
+                }
+            ],
+            "paLang": [],
+            "specialPermission": [],
+            "expInCurrentGrade": 78
+        }
+    ]
+}
+
